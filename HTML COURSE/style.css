@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+
+.head{
+    width: 80%;
+    /* background-color: red; */
+    margin: 10px auto;
+    padding: 12px 0;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 0 5px rgba(1,1,1,0.2);
+}
+
+.head h1{
+    font-size: 50px;
+}
+
+.head p{
+    font-size: 40px;
+}
+
+section{
+    width: 90%;
+    /* background-color: red; */
+    margin: 100px auto;
+    text-align: center;
+}
+
+.roadmap h1{
+    margin-bottom: 30px;
+    font-size: 40px;
+}
